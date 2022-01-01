@@ -1,0 +1,34 @@
+{
+  "prettier.semi": false,
+  "prettier.singleQuote": true,
+  "prettier.tslintIntegration": false,
+  "prettier.eslintIntegration": true,
+  "prettier.tabWidth": 2,
+  "coc.preferences.formatOnType": true,
+  "coc.preferences.formatOnSaveFiletypes": [
+    "javascript",
+    "javascriptreact",
+    "markdown",
+    "html",
+    "json",
+    "css",
+    "yaml"
+  ],
+
+  // explorer
+  "explorer.width": 35,
+  "explorer.icon.enableNerdfont": true,
+  "explorer.previewAction.onHover": false,
+  "explorer.keyMappings.global": {
+    "<cr>": [
+      "expandable?",
+      ["expanded?", "collapse", "expand"],
+      "open"
+    ],
+    "v": "open:vsplit"
+  },
+  "explorer.file.showHiddenFiles": true
+
+
+
+}
